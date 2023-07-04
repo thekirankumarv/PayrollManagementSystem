@@ -376,9 +376,9 @@ void intro()
     gotoXY(25,5); for(int i=0;i<29;i++) printf("%c",196);
     gotoXY(20,8); printf("Designed and Programmed by:");
     gotoXY(20,9);for(int i=0;i<29;i++) printf("%c",196);
-	gotoXY(20,11); printf("V.Poorna Chand");
-	gotoXY(20,13); printf("https://github.com/VangaPoornaChand");
-	gotoXY(20,15); printf("https://www.linkedin.com/in/poorna-chand-902642177/");
+	gotoXY(20,11); printf("Kiran Kumar V");
+	gotoXY(20,13); printf("https://github.com/thekirankumarv");
+	gotoXY(20,15); printf("https://www.linkedin.com/in/thekirankumarv/");
     gotoXY(24,20);printf("Press Any key to continue...");
     getch();
     
