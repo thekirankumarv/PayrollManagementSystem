@@ -724,9 +724,6 @@ void displayPayslip()
 }
 
 
-
-
-
 int main()
 {
 	setWindowSize();	
