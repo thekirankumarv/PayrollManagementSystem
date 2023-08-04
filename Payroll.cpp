@@ -9,7 +9,7 @@
 #include<ctype.h>
 #define max 50
 using namespace std;
-
+   
 int num=0;
 void gotoXY(int,int);
 void Cdelay(int);
